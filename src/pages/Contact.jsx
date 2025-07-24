@@ -62,7 +62,7 @@ const Contact = () => {
       icon: Phone,
       title: 'Call Us',
       details: '9024807754, 8764422336',
-      description: 'Mon-Fri from 8am to 5pm'
+      description: 'Mon-Sat from 10 AM to 7 PM'
     },
     {
       icon: MapPin,
