@@ -358,7 +358,7 @@ const Contact = () => {
             <p className="text-xl text-gray-400 mb-8 max-w-2xl mx-auto">
               Don't wait any longer. Let's create something amazing together.
             </p>
-            <Link to={`https://wa.me/9024807754?text=I'd%20like%20to%20chat%20with%20you`} target='_blank' rel="noopener noreferrer"
+            <Link to={`https://wa.me/8764422336?text=I'd%20like%20to%20chat%20with%20you`} target='_blank' rel="noopener noreferrer"
             >
               <motion.button
                 whileHover={{ scale: 1.05 }}
