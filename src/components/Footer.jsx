@@ -16,6 +16,7 @@ const Footer = () => {
     { icon: Facebook, href: 'https://www.facebook.com/profile.php?id=61578746480087', label: 'Facebook' },
     // { icon: Twitter, href: '#', label: 'Twitter' },
     { icon: Instagram, href: 'https://www.instagram.com/quickconnectofficial/', label: 'Instagram' },
+      { icon: MapPin, href: 'https://www.google.com/maps?ll=26.908341,75.831661&z=15&t=m&hl=en&gl=IN&mapclient=embed&cid=13548736960831725388', label: 'Map' },
     // { icon: Linkedin, href: '#', label: 'LinkedIn' },
   ];
 
