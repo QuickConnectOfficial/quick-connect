@@ -108,33 +108,53 @@ const Home = () => {
 
   const testimonials = [
     {
-      name: 'Sarah Johnson',
-      company: 'TechStart Inc.',
-      text: 'DigitalCraft transformed our brand completely. Their creative approach and attention to detail is unmatched.',
-      rating: 5,
-      image: 'https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=150'
+      name: 'Rathore Saab',
+      text: 'Finding a skilled video editor was a challenge until I came across this team. They truly understand creativity, storytelling, and smooth transitions. The edits are always on point, delivered on time, and perfectly match my vision. Highly recommended for high-quality video editing! 
+',
+      rating: 5
     },
     {
-      name: 'Sarah Johnson',
-      company: 'TechStart Inc.',
-      text: 'DigitalCraft transformed our brand completely. Their creative approach and attention to detail is unmatched.',
-      rating: 5,
-      image: 'https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=150'
+      name: 'Vasu Dadhich',
+      text: 'Highly satisfied with the social media marketing services! The team delivered excellent results, boosting our online presence and engagement. Highly recommend!',
+      rating: 5
     },
     {
-      name: 'Michael Chen',
-      company: 'GrowthCorp',
-      text: 'The ROI we achieved through their performance marketing campaigns exceeded all expectations.',
-      rating: 5,
-      image: 'https://images.pexels.com/photos/697509/pexels-photo-697509.jpeg?auto=compress&cs=tinysrgb&w=150'
+      name: 'Hansu Meena',
+      text: 'Excellent service! They helped me boost my online presence and increase sales. Their team is knowledgeable, responsive, and result-driven. Highly recommend!',
+      rating: 5
     },
     {
-      name: 'Emily Rodriguez',
-      company: 'Fashion Forward',
-      text: 'Their social media strategy helped us reach millions and build a loyal community.',
-      rating: 5,
-      image: 'https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&w=150'
-    }
+      name: 'Anil Jaat',
+      text: 'This is the best digital marketing agency I have ever visit in jaipur . The work of these employees were extraordinary',
+      rating: 5
+    },
+    {
+      name: 'Vishal Singh',
+      text: 'One of the best digital marketing agencies in Jaipur. Their team is highly professional, creative, and results-driven. From SEO to social media marketing, they provide top-notch services with excellent support. Highly recommended for businesses looking to grow their online presence!',
+      rating: 5
+    },
+    {
+      name: 'Surendra Bairwa',
+      text: 'Excellent digital marketing services! The team is professional, results-driven, and helped boost my online presence. Highly recommend for SEO, social media, and overall brand growth in Jaipur!',
+      rating: 5
+    },
+    {
+      name: 'Lokesh Yadav',
+      text: 'Excellent Google Ads management! Well-optimized campaigns, great ROI, and quality leads. Highly recommend for effective online advertising!',
+      rating: 5
+    },
+    {
+      name: 'Sumit Kumawat',
+      text: 'They completely transformed our Instagram and Facebook pages. From eye-catching visuals to creative captions, everything looked so professional and on-brand. Within weeks, we started seeing more inquiries, more bookings, and a lot more engagement!
+Highly recommended!',
+      rating: 5
+    },
+    {
+      name: 'Mukesh Jangid',
+      text: 'Best digital marketing agency in jaipur. I am workikg with this agency last 2 year.
+Fully satisfied!',
+      rating: 5
+    },
   ];
 
   const portfolioPreview = [
