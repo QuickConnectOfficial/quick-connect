@@ -109,8 +109,7 @@ const Home = () => {
   const testimonials = [
     {
       name: 'Rathore Saab',
-      text: 'Finding a skilled video editor was a challenge until I came across this team. They truly understand creativity, storytelling, and smooth transitions. The edits are always on point, delivered on time, and perfectly match my vision. Highly recommended for high-quality video editing! 
-',
+      text: 'Finding a skilled video editor was a challenge until I came across this team. They truly understand creativity, storytelling, and smooth transitions. The edits are always on point, delivered on time, and perfectly match my vision. Highly recommended for high-quality video editing! ',
       rating: 5
     },
     {
@@ -145,14 +144,12 @@ const Home = () => {
     },
     {
       name: 'Sumit Kumawat',
-      text: 'They completely transformed our Instagram and Facebook pages. From eye-catching visuals to creative captions, everything looked so professional and on-brand. Within weeks, we started seeing more inquiries, more bookings, and a lot more engagement!
-Highly recommended!',
+      text: 'They completely transformed our Instagram and Facebook pages. From eye-catching visuals to creative captions, everything looked so professional and on-brand. Within weeks, we started seeing more inquiries, more bookings, and a lot more engagement! Highly recommended!',
       rating: 5
     },
     {
       name: 'Mukesh Jangid',
-      text: 'Best digital marketing agency in jaipur. I am workikg with this agency last 2 year.
-Fully satisfied!',
+      text: 'Best digital marketing agency in jaipur. I am workikg with this agency last 2 year. Fully satisfied!',
       rating: 5
     },
   ];
