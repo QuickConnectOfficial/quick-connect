@@ -87,7 +87,7 @@ const About = () => {
             className="text-center"
           >
             <h1 className="text-5xl md:text-6xl font-bold text-black mb-6">
-              About <span className="text-yellow-500">DigitalCraft</span>
+              About <span className="text-yellow-500">Quick Connect</span>
             </h1>
             <p className="text-xl md:text-2xl text-gray-600 max-w-4xl mx-auto leading-relaxed">
               We're not just another digital agency. We're your partners in building 
